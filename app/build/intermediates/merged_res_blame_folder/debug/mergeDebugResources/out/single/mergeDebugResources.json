@@ -1,0 +1,178 @@
+[
+    {
+        "merged": "C:\\Users\\aleja\\.gradle\\daemon\\8.11.1\\com.example.mtglifecounter.app-debug-52:\\drawable_bg_3players_p1.jpg.flat",
+        "source": "C:\\Users\\aleja\\.gradle\\daemon\\8.11.1\\com.example.mtglifecounter.app-main-54:\\drawable\\bg_3players_p1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\aleja\\.gradle\\daemon\\8.11.1\\com.example.mtglifecounter.app-debug-52:\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\aleja\\.gradle\\daemon\\8.11.1\\com.example.mtglifecounter.app-main-54:\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\aleja\\.gradle\\daemon\\8.11.1\\com.example.mtglifecounter.app-debug-52:\\drawable_donqui.webp.flat",
+        "source": "C:\\Users\\aleja\\.gradle\\daemon\\8.11.1\\com.example.mtglifecounter.app-main-54:\\drawable\\donqui.webp"
+    },
+    {
+        "merged": "C:\\Users\\aleja\\.gradle\\daemon\\8.11.1\\com.example.mtglifecounter.app-debug-52:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\aleja\\.gradle\\daemon\\8.11.1\\com.example.mtglifecounter.app-main-54:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\aleja\\.gradle\\daemon\\8.11.1\\com.example.mtglifecounter.app-debug-52:\\drawable_bg_energycounters.jpg.flat",
+        "source": "C:\\Users\\aleja\\.gradle\\daemon\\8.11.1\\com.example.mtglifecounter.app-main-54:\\drawable\\bg_energycounters.jpg"
+    },
+    {
+        "merged": "C:\\Users\\aleja\\.gradle\\daemon\\8.11.1\\com.example.mtglifecounter.app-debug-52:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\aleja\\.gradle\\daemon\\8.11.1\\com.example.mtglifecounter.app-main-54:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\aleja\\.gradle\\daemon\\8.11.1\\com.example.mtglifecounter.app-debug-52:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\aleja\\.gradle\\daemon\\8.11.1\\com.example.mtglifecounter.app-main-54:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\aleja\\.gradle\\daemon\\8.11.1\\com.example.mtglifecounter.app-debug-52:\\drawable_bg_3players.jpg.flat",
+        "source": "C:\\Users\\aleja\\.gradle\\daemon\\8.11.1\\com.example.mtglifecounter.app-main-54:\\drawable\\bg_3players.jpg"
+    },
+    {
+        "merged": "C:\\Users\\aleja\\.gradle\\daemon\\8.11.1\\com.example.mtglifecounter.app-debug-52:\\drawable_placeholder_todo.png.flat",
+        "source": "C:\\Users\\aleja\\.gradle\\daemon\\8.11.1\\com.example.mtglifecounter.app-main-54:\\drawable\\placeholder_todo.png"
+    },
+    {
+        "merged": "C:\\Users\\aleja\\.gradle\\daemon\\8.11.1\\com.example.mtglifecounter.app-debug-52:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\aleja\\.gradle\\daemon\\8.11.1\\com.example.mtglifecounter.app-main-54:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\aleja\\.gradle\\daemon\\8.11.1\\com.example.mtglifecounter.app-debug-52:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\aleja\\.gradle\\daemon\\8.11.1\\com.example.mtglifecounter.app-main-54:\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\aleja\\.gradle\\daemon\\8.11.1\\com.example.mtglifecounter.app-debug-52:\\drawable_bg_logo.png.flat",
+        "source": "C:\\Users\\aleja\\.gradle\\daemon\\8.11.1\\com.example.mtglifecounter.app-main-54:\\drawable\\bg_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\aleja\\.gradle\\daemon\\8.11.1\\com.example.mtglifecounter.app-debug-52:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\aleja\\.gradle\\daemon\\8.11.1\\com.example.mtglifecounter.app-main-54:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\aleja\\.gradle\\daemon\\8.11.1\\com.example.mtglifecounter.app-debug-52:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\aleja\\.gradle\\daemon\\8.11.1\\com.example.mtglifecounter.app-main-54:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\aleja\\.gradle\\daemon\\8.11.1\\com.example.mtglifecounter.app-debug-52:\\drawable_icon_rng.png.flat",
+        "source": "C:\\Users\\aleja\\.gradle\\daemon\\8.11.1\\com.example.mtglifecounter.app-main-54:\\drawable\\icon_rng.png"
+    },
+    {
+        "merged": "C:\\Users\\aleja\\.gradle\\daemon\\8.11.1\\com.example.mtglifecounter.app-debug-52:\\drawable_icon_commanderdamage.png.flat",
+        "source": "C:\\Users\\aleja\\.gradle\\daemon\\8.11.1\\com.example.mtglifecounter.app-main-54:\\drawable\\icon_commanderdamage.png"
+    },
+    {
+        "merged": "C:\\Users\\aleja\\.gradle\\daemon\\8.11.1\\com.example.mtglifecounter.app-debug-52:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\aleja\\.gradle\\daemon\\8.11.1\\com.example.mtglifecounter.app-main-54:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\aleja\\.gradle\\daemon\\8.11.1\\com.example.mtglifecounter.app-debug-52:\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\aleja\\.gradle\\daemon\\8.11.1\\com.example.mtglifecounter.app-main-54:\\mipmap-xhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\aleja\\.gradle\\daemon\\8.11.1\\com.example.mtglifecounter.app-debug-52:\\drawable_icon_energycounter.png.flat",
+        "source": "C:\\Users\\aleja\\.gradle\\daemon\\8.11.1\\com.example.mtglifecounter.app-main-54:\\drawable\\icon_energycounter.png"
+    },
+    {
+        "merged": "C:\\Users\\aleja\\.gradle\\daemon\\8.11.1\\com.example.mtglifecounter.app-debug-52:\\drawable_bg_4players.jpg.flat",
+        "source": "C:\\Users\\aleja\\.gradle\\daemon\\8.11.1\\com.example.mtglifecounter.app-main-54:\\drawable\\bg_4players.jpg"
+    },
+    {
+        "merged": "C:\\Users\\aleja\\.gradle\\daemon\\8.11.1\\com.example.mtglifecounter.app-debug-52:\\drawable_bg_3players_p3.jpg.flat",
+        "source": "C:\\Users\\aleja\\.gradle\\daemon\\8.11.1\\com.example.mtglifecounter.app-main-54:\\drawable\\bg_3players_p3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\aleja\\.gradle\\daemon\\8.11.1\\com.example.mtglifecounter.app-debug-52:\\drawable_bg_2players_p2.jpg.flat",
+        "source": "C:\\Users\\aleja\\.gradle\\daemon\\8.11.1\\com.example.mtglifecounter.app-main-54:\\drawable\\bg_2players_p2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\aleja\\.gradle\\daemon\\8.11.1\\com.example.mtglifecounter.app-debug-52:\\drawable_bg_4players_p4.jpg.flat",
+        "source": "C:\\Users\\aleja\\.gradle\\daemon\\8.11.1\\com.example.mtglifecounter.app-main-54:\\drawable\\bg_4players_p4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\aleja\\.gradle\\daemon\\8.11.1\\com.example.mtglifecounter.app-debug-52:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\aleja\\.gradle\\daemon\\8.11.1\\com.example.mtglifecounter.app-main-54:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\aleja\\.gradle\\daemon\\8.11.1\\com.example.mtglifecounter.app-debug-52:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\aleja\\.gradle\\daemon\\8.11.1\\com.example.mtglifecounter.app-main-54:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\aleja\\.gradle\\daemon\\8.11.1\\com.example.mtglifecounter.app-debug-52:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\aleja\\.gradle\\daemon\\8.11.1\\com.example.mtglifecounter.app-main-54:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\aleja\\.gradle\\daemon\\8.11.1\\com.example.mtglifecounter.app-debug-52:\\drawable_placeholder_todo.jpg.flat",
+        "source": "C:\\Users\\aleja\\.gradle\\daemon\\8.11.1\\com.example.mtglifecounter.app-main-54:\\drawable\\placeholder_todo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\aleja\\.gradle\\daemon\\8.11.1\\com.example.mtglifecounter.app-debug-52:\\drawable_bg_3players_p2.jpeg.flat",
+        "source": "C:\\Users\\aleja\\.gradle\\daemon\\8.11.1\\com.example.mtglifecounter.app-main-54:\\drawable\\bg_3players_p2.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\aleja\\.gradle\\daemon\\8.11.1\\com.example.mtglifecounter.app-debug-52:\\drawable_icon_spellcast.png.flat",
+        "source": "C:\\Users\\aleja\\.gradle\\daemon\\8.11.1\\com.example.mtglifecounter.app-main-54:\\drawable\\icon_spellcast.png"
+    },
+    {
+        "merged": "C:\\Users\\aleja\\.gradle\\daemon\\8.11.1\\com.example.mtglifecounter.app-debug-52:\\drawable_bg_4players_p1.jpg.flat",
+        "source": "C:\\Users\\aleja\\.gradle\\daemon\\8.11.1\\com.example.mtglifecounter.app-main-54:\\drawable\\bg_4players_p1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\aleja\\.gradle\\daemon\\8.11.1\\com.example.mtglifecounter.app-debug-52:\\drawable_bg_4players_p3.webp.flat",
+        "source": "C:\\Users\\aleja\\.gradle\\daemon\\8.11.1\\com.example.mtglifecounter.app-main-54:\\drawable\\bg_4players_p3.webp"
+    },
+    {
+        "merged": "C:\\Users\\aleja\\.gradle\\daemon\\8.11.1\\com.example.mtglifecounter.app-debug-52:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\aleja\\.gradle\\daemon\\8.11.1\\com.example.mtglifecounter.app-main-54:\\mipmap-hdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\aleja\\.gradle\\daemon\\8.11.1\\com.example.mtglifecounter.app-debug-52:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\aleja\\.gradle\\daemon\\8.11.1\\com.example.mtglifecounter.app-main-54:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\aleja\\.gradle\\daemon\\8.11.1\\com.example.mtglifecounter.app-debug-52:\\drawable_bg_4players_p2.png.flat",
+        "source": "C:\\Users\\aleja\\.gradle\\daemon\\8.11.1\\com.example.mtglifecounter.app-main-54:\\drawable\\bg_4players_p2.png"
+    },
+    {
+        "merged": "C:\\Users\\aleja\\.gradle\\daemon\\8.11.1\\com.example.mtglifecounter.app-debug-52:\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\aleja\\.gradle\\daemon\\8.11.1\\com.example.mtglifecounter.app-main-54:\\mipmap-mdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\aleja\\.gradle\\daemon\\8.11.1\\com.example.mtglifecounter.app-debug-52:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\aleja\\.gradle\\daemon\\8.11.1\\com.example.mtglifecounter.app-main-54:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\aleja\\.gradle\\daemon\\8.11.1\\com.example.mtglifecounter.app-debug-52:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\aleja\\.gradle\\daemon\\8.11.1\\com.example.mtglifecounter.app-main-54:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\aleja\\.gradle\\daemon\\8.11.1\\com.example.mtglifecounter.app-debug-52:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\aleja\\.gradle\\daemon\\8.11.1\\com.example.mtglifecounter.app-main-54:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\aleja\\.gradle\\daemon\\8.11.1\\com.example.mtglifecounter.app-debug-52:\\drawable_icon_poisoncounter.webp.flat",
+        "source": "C:\\Users\\aleja\\.gradle\\daemon\\8.11.1\\com.example.mtglifecounter.app-main-54:\\drawable\\icon_poisoncounter.webp"
+    },
+    {
+        "merged": "C:\\Users\\aleja\\.gradle\\daemon\\8.11.1\\com.example.mtglifecounter.app-debug-52:\\drawable_bg_poisoncounters.png.flat",
+        "source": "C:\\Users\\aleja\\.gradle\\daemon\\8.11.1\\com.example.mtglifecounter.app-main-54:\\drawable\\bg_poisoncounters.png"
+    },
+    {
+        "merged": "C:\\Users\\aleja\\.gradle\\daemon\\8.11.1\\com.example.mtglifecounter.app-debug-52:\\drawable_bg_2players_p1.jpg.flat",
+        "source": "C:\\Users\\aleja\\.gradle\\daemon\\8.11.1\\com.example.mtglifecounter.app-main-54:\\drawable\\bg_2players_p1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\aleja\\.gradle\\daemon\\8.11.1\\com.example.mtglifecounter.app-debug-52:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\aleja\\.gradle\\daemon\\8.11.1\\com.example.mtglifecounter.app-main-54:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\aleja\\.gradle\\daemon\\8.11.1\\com.example.mtglifecounter.app-debug-52:\\drawable_bg_2players.jpg.flat",
+        "source": "C:\\Users\\aleja\\.gradle\\daemon\\8.11.1\\com.example.mtglifecounter.app-main-54:\\drawable\\bg_2players.jpg"
+    },
+    {
+        "merged": "C:\\Users\\aleja\\.gradle\\daemon\\8.11.1\\com.example.mtglifecounter.app-debug-52:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\aleja\\.gradle\\daemon\\8.11.1\\com.example.mtglifecounter.app-main-54:\\drawable\\ic_launcher_background.xml"
+    }
+]

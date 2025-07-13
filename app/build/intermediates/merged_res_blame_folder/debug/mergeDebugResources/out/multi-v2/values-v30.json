@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.mtglifecounter.app-mergeDebugResources-50:/values-v30/values-v30.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\aleja\\.gradle\\caches\\8.11.1\\transforms\\02f0494e2aaa3f86d2ce0aa676a6a219\\transformed\\material3-release\\res\\values-v30\\values-v30.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "72",
+                        "endOffsets": "123"
+                    }
+                }
+            ]
+        }
+    ]
+}
